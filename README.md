@@ -27,7 +27,7 @@ Este proyecto permite organizar la inforcion relacionada con las personas de la 
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clona el repositorio desde GitHub:
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/matyanezh-create/sistemaSalmontt.git
 
 Abre el proyecto en IntelliJ IDEA.
 
@@ -37,6 +37,6 @@ Ejecuta el archivo Main.java desde el paquete app.
 
 Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
-Repositorio GitHub: [Pega aquí el enlace al repositorio] Fecha de entrega: [DD/MM/2025]
+Repositorio GitHub: https://github.com/matyanezh-create/sistemaSalmontt.git Fecha de entrega: [10/11/2025]
 
 

@@ -7,25 +7,23 @@ Duoc UC
 
 Nombre completo: Matias Ignacio Yañez Hernandez
 
-Sección: [Escribe aquí tu sección]
+Sección: DESARROLLO ORIENTADO A OBJETOS I_003A
 
 Carrera: Ingeniería en Informática
 
-Sede: [Escribe aquí tu sede, por ejemplo: Puerto Montt]
+Sede: duocUC/ONLINE(Santiago)
 
 📘 Descripción general del sistema
 
-Este proyecto corresponde a la Evaluación Final Transversal de la asignatura Desarrollo Orientado a Objetos I. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
-
-El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
+Este proyecto permite organizar la inforcion relacionada con las personas de la empresa salmonera. El objetivo de esta aplicacion es entregar informacion clara y reutilizable para representar empleados, direcciones y relaciones entre clases, aplicando los principios de la programación orientada a objetos.
 
 🧱 Estructura general del proyecto
 ├── app/
-│ └── Main.java
+│ └── Main.java  # Clase principal para ejecutar el sistema
 └── model/
-├── Persona.java
-├── Direccion.java
-└── Empleado.java
+├── Persona.java  # Clase base para todas las personas
+├── Direccion.java  # Clase que representa la dirección de una persona
+└── Empleado.java  # Clase que agrega información de empleado
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clona el repositorio desde GitHub:

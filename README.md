@@ -1,12 +1,19 @@
 # sistemaSalmontt
 Duoc UC
-🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
+🧠 Evaluacion Realizando validación, excepciones y relaciones entre clases – Desarrollo Orientado a Objetos I
+
 👤 Autor del proyecto
+
 Nombre completo: Matias Ignacio Yañez Hernandez
+
 Sección: [Escribe aquí tu sección]
+
 Carrera: Ingeniería en Informática
+
 Sede: [Escribe aquí tu sede, por ejemplo: Puerto Montt]
+
 📘 Descripción general del sistema
+
 Este proyecto corresponde a la Evaluación Final Transversal de la asignatura Desarrollo Orientado a Objetos I. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.

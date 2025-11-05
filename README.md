@@ -2,7 +2,7 @@
 Duoc UC
 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 👤 Autor del proyecto
-Nombre completo: [Escribe aquí tu nombre]
+Nombre completo: Matias Ignacio Yañez Hernandez
 Sección: [Escribe aquí tu sección]
 Carrera: Ingeniería en Informática
 Sede: [Escribe aquí tu sede, por ejemplo: Puerto Montt]
@@ -12,15 +12,17 @@ Este proyecto corresponde a la Evaluación Final Transversal de la asignatura De
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
 🧱 Estructura general del proyecto
-📁 src/
-├── app/         # Clase principal con el método main
-├── model/       # Clases de dominio (Persona, Cliente, Empleado, Producto, etc.)
-├── data/        # Clases para la carga y lectura de archivos .txt
-├── utils/       # Utilidades y validaciones
-└── interfaces/  # Interfaces implementadas por las clases
+├── app/
+│ └── Main.java
+└── model/
+├── Persona.java
+├── Direccion.java
+└── Empleado.java
+
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clona el repositorio desde GitHub:
 git clone https://github.com/usuario/repositorio-evaluacion-final.git
+
 Abre el proyecto en IntelliJ IDEA.
 
 Verifica que los archivos .txt estén correctamente ubicados.
@@ -31,4 +33,4 @@ Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
 Repositorio GitHub: [Pega aquí el enlace al repositorio] Fecha de entrega: [DD/MM/2025]
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+
